@@ -16,4 +16,4 @@
 .DS_Store
 .idea
 .vscode
-_*
+bin/
